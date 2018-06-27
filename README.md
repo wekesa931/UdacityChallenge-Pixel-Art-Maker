@@ -10,3 +10,4 @@ The specific instructions are contained in the project instructions in the [Udac
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.#Enjoy!#
+ the link to my github repo can be acessed here: [a link](https://github.com/wekesa931/wekesa931_PixelArtProject)
